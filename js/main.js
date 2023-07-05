@@ -57,7 +57,6 @@ function mostrarDetallesExperiencia(experienciaGastronómica) {
     alert("Detalles de la experiencia: el entorno perfecto para dejarse seducir por la gastronomía argentina.");
     alert("Nombre: " + experienciaGastronómica.nombre);
     alert("Duración: " + experienciaGastronómica.tiempo + " noche");
-    alert("Terapeuta: " + experienciaGastronómica.terapeuta);
     alert("Precio: " + experienciaGastronómica.precio);
 }
 
